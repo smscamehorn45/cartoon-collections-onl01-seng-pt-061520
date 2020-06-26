@@ -1,4 +1,4 @@
-dwarves = []
+dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 
 
