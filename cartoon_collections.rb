@@ -1,4 +1,8 @@
-def roll_call_dwarves(call)
+dwarves = []
+
+
+
+def roll_call_dwarves(array)
   
 end
 
